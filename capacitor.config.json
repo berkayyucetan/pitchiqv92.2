@@ -1,0 +1,7 @@
+{
+  "appId": "com.sahakrali.game",
+  "appName": "Saha Kralı",
+  "webDir": "www",
+  "android": { "allowMixedContent": false },
+  "backgroundColor": "#0d3b1e"
+}

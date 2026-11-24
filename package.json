@@ -1,0 +1,16 @@
+{
+  "name": "saha-krali",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Saha Kralı - mobil futbol oyunu",
+  "scripts": {
+    "test": "node sim.js 2",
+    "sync": "npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.6.0",
+    "@capacitor/cli": "^8.6.0",
+    "@capacitor/core": "^8.6.0",
+    "@capacitor/screen-orientation": "^8.0.2"
+  }
+}
